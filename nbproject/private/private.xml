@@ -5,6 +5,10 @@
         <group>
             <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/ui/HomeFrame.java</file>
             <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/dao/PlanoDeSaudeDAO.java</file>
+            <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/ui/DialogPlanosDeSaude.java</file>
+            <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/model/PlanoDeSaude.java</file>
+            <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/ui/PanelPlanosDeSaude.java</file>
+            <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/ClinicaApp.java</file>
             <file>file:/C:/Users/22282163/eclipse-workspace/Sistema_agendamento/src/br/senai/sp/jandira/teste/TestDao.java</file>
         </group>
     </open-files>
