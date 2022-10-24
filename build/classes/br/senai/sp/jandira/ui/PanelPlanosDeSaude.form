@@ -35,7 +35,9 @@
       <Properties>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
-            <TitledBorder title="Plano de sa&#xfa;de"/>
+            <TitledBorder title="Plano de sa&#xfa;de">
+              <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
+            </TitledBorder>
           </Border>
         </Property>
       </Properties>
